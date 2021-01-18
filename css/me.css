@@ -1,0 +1,180 @@
+
+/* This make changes to bold calss into bold */
+.bold
+{
+    font-weight: bold;
+}
+/* This make change to italics class */
+.italics
+{
+    font-style: italic;
+}
+
+/* This will make changes to div */
+.border
+{
+    border: #00008b 2px dashed;
+    background-color: #eeeeee;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 25px 20px 25px 20px;
+}
+/* This will make changes to h1/h2 */
+h1,h2
+{
+    text-align: right;
+    color: Red;
+    font-variant: small-caps;
+}
+
+/* This will make changes to p */
+p
+{
+    font-family: arial, sans-serif;
+}
+
+/* Makes changes to img */
+img.grads
+{
+    padding: 5px;
+    float:left;
+}
+img.edu
+{
+    padding: 5px;
+    float:right;
+}
+img.hobby
+{
+    padding: 5px;
+    float:left;
+    height:130px;
+    width:200px;
+
+}
+/* makes changes to blockquotes  */
+blockquote
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* making changes to validator */
+#validator
+{
+    text-decoration: none;
+    margin: 25px;
+    padding: 10px;
+}
+/* make changes to table */
+#schedule, #classes, #links
+{
+    border-spacing:2px;
+    color: green;
+}
+
+table, tr, th, td
+{
+    border: 1px;
+    border-style: solid;
+}
+
+tr
+{
+    text-align: center;
+   /* background-color: yellow;*/
+}
+
+th
+{
+    width:100px;
+}
+
+th:hover, td:hover
+{
+    color: #ffffff;
+    background-color:red;
+}
+.CIST1300
+{
+    background-color:#ffe6ff;
+}
+.java
+{
+    background-color:#99ffd6;
+}
+.us20
+{
+    background-color:#c299ff;
+}
+.lab
+{
+    background-color:#99b3ff;
+}
+.CIST1200
+{
+    background-color:#cc6699;
+}
+.math
+{
+    background-color: #99ddff;
+}
+
+
+/*Changes for music and video*/
+video
+{
+    width:640px;
+    height:480px;
+}
+
+iframe
+{
+    width:640px;
+    height:480px;
+}
+
+/*float audio to right*/
+audio
+{
+   height:25px;
+    float:right;
+}
+.center {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+}
+.videos {
+  width:80%;
+  height: 40%;
+}
+.ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+                            }
+
+
+.lia {
+	float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+                            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
